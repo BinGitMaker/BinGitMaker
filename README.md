@@ -1,6 +1,6 @@
 Hi! 🖖
 
-I'm BinGitMaker
+I'm Delphine Binois
 a Web Developer and Designer
 located in Paris - France.
 
@@ -11,4 +11,5 @@ located in Paris - France.
 
 📫 How to reach me: dbinoisdevpro@gmail.com
 
-[![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker)](https://github.com/BinGitMaker/github-readme-stats)
+[![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker&theme=panda_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
+
