@@ -13,3 +13,4 @@ located in Paris - France.
 
 [![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinGitMaker&layout=compact&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
