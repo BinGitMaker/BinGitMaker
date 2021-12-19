@@ -11,4 +11,4 @@ located in Paris - France.
 
 📫 How to reach me: dbinoisdevpro@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BinGitMaker=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker)](https://github.com/BinGitMaker/github-readme-stats)
