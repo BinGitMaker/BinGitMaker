@@ -11,5 +11,5 @@ located in Paris - France.
 
 📫 How to reach me: dbinoisdevpro@gmail.com
 
-[![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker&theme=panda_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
+[![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
 
