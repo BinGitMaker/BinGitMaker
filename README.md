@@ -6,6 +6,7 @@ I'm located in Paris - France.
 
 
 🔭 I’m currently working on my 3rd and last School Project.
+
 🌱 I’m currently learning at Wild Code School https://github.com/WildCodeSchool
 
 
