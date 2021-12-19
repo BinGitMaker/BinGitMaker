@@ -2,10 +2,12 @@ Hi! 🖖
 
 I'm located in Paris - France.
 
+👯 I’m looking to collaborate on traineeship for 6months starting the 7th of March 2022. 
+
 
 🔭 I’m currently working on my 3rd and last School Project.
 🌱 I’m currently learning at Wild Code School https://github.com/WildCodeSchool
-👯 I’m looking to collaborate on traineeship for 6months starting the 7th of March 2022. 
+
 
 📫 How to reach me: dbinoisdevpro@gmail.com
 
