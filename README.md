@@ -1,8 +1,6 @@
 Hi! 🖖
 
-I'm Delphine Binois
-a Web Developer and Designer
-located in Paris - France.
+I'm located in Paris - France.
 
 
 🔭 I’m currently working on my 3rd and last School Project.
@@ -11,4 +9,6 @@ located in Paris - France.
 
 📫 How to reach me: dbinoisdevpro@gmail.com
 
-[![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinGitMaker&langs_count=5&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
+[![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinGitMaker&langs_count=5&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
