@@ -1,6 +1,6 @@
 Hi! 🖖
 
-I'm Delphine Binois
+I'm BinGitMaker
 a Web Developer and Designer
 located in Paris - France.
 
