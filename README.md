@@ -2,7 +2,7 @@ Hi! 🖖
 
 I'm located in Paris - France.
 
-👯 I’m looking to collaborate on traineeship for 6months starting the 7th of March 2022. 
+👯 I’m looking to collaborate on Company Internship for 4 to 6months starting March 2022. 
 
 
 🔭 I’m currently working on my 3rd and last School Project.
