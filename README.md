@@ -13,8 +13,8 @@ I'm located in Paris - France.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dbinoisdev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="30" width="100" /></a>
-<a href="https://www.instagram.com/bingitmaker" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" height="30" width="100"/></a>
+<a href="https://www.linkedin.com/in/dbinoisdev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="30" width="120" /></a>
+<a href="https://www.instagram.com/bingitmaker" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" height="30" width="120"/></a>
 </p>
 
 
