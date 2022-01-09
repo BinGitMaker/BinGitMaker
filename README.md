@@ -4,6 +4,8 @@ I'm located in Paris - France.
 
 👯 I’m looking to collaborate on Company Internship for 4 to 6months starting March 2022. 
 
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
 
 🔭 I’m currently working on my 3rd and last School Project.
 
