@@ -7,11 +7,11 @@ Hi! 🖖
 
 I'm located in Paris - France.
 
-👯 I’ll start Company Internship for 6months for beg of March 2022. 
+👯 I’m actually in internship for 6months until september 2022. 
 
 🔭 I’m currently working on my personal Project: Travel Shaker (to edit my personnal traveling board)
 
-🌱 I'll search cooperating training course start september 2022 with Wild Code School https://github.com/WildCodeSchool
+🌱 I'll search cooperating training course start september 2022 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
