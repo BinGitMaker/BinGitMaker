@@ -19,7 +19,7 @@ I'm located in Paris - France.
    - Cabinet de Bien-Etre : presented for my Certification RNCP - PHP SYMFONY
    - and more... in Python - Django and React Native, PHP Symfony (to be continued :muscle:)
    
-:arrow_right: NEXT? :arrow_right:
+##  :arrow_right: NEXT? :arrow_right: I would develop mobil app and I'm curious of 3D and metaverse
 - I :heart: love :woman_technologist: coding :woman_technologist: (Symfony/Twig are my first loves but not the last!!)
 - I :heart: love :art: design :art: (illustrator, Figma, bootstrap are my friends)
 - I :heart: love :woman_student: learning :woman_student: 
