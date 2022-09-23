@@ -3,15 +3,28 @@
 </a></br>
 </p>
 
-Hi! 🖖
+# Hello I'm :rainbow: BinGitMaker! 🖖
 
 I'm located in Paris - France.
 
-👯 I’m actually in internship for 6months until september 2022. 
+##  I’m actually study :snake: Python :snake: 
 
-🔭 I’m currently working on my personal Project: Travel Shaker (to edit my personnal traveling board)
+- from 22.09 to 23.06 : Bachelor Python - Django - React Nativ with Hetic
+- from 22.06 to 22.09 : traineeship in Symfony PHP
+- from 22.03 to 22.05 : traineeship in VueJS - Javascript Vanilla 
+- from 21.09 to 22.02 : Graduate PHP SYMFONY with Wild Code School
 
-🌱 I'll search cooperating training course start september 2022 
+🔭 I’m currently working on my personal Projects: 
+   - Travel Shaker (to edit my personnal traveling board) - PHP SYMFONY
+   - Cabinet de Bien-Etre : presented for my Certification RNCP - PHP SYMFONY
+   - and more... in Python - Django and React Native, PHP Symfony (to be continued :muscle:)
+   
+:arrow_right: NEXT? :arrow_right:
+- I :heart: love :woman_technologist: coding :woman_technologist: (Symfony/Twig are my first loves but not the last!!)
+- I :heart: love :art: design :art: (illustrator, Figma, bootstrap are my friends)
+- I :heart: love :woman_student: learning :woman_student: 
+- :arrow_right: SO : I would learn ThreeJS, Typescript, Java, UX-UI and more...
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
