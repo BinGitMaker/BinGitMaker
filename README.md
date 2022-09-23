@@ -8,7 +8,7 @@
 
 I'm located in Paris - France.
 
-## :rainbow: I’m actually study :snake: Python :snake: 
+## :rainbow: I’m actually studing :snake: Python :snake: 
 
 - from 22.09 to 23.06 : Bachelor Python - Django - React Nativ with Hetic
 - from 22.06 to 22.09 : traineeship in Symfony PHP
