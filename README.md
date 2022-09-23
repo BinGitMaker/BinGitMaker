@@ -3,27 +3,31 @@
 </a></br>
 </p>
 
-# Hello I'm :rainbow: BinGitMaker! 🖖
+# Hello I'm :rainbow: BinGitMaker! 
+
 
 I'm located in Paris - France.
 
-##  I’m actually study :snake: Python :snake: 
+## :rainbow: I’m actually study :snake: Python :snake: 
 
 - from 22.09 to 23.06 : Bachelor Python - Django - React Nativ with Hetic
 - from 22.06 to 22.09 : traineeship in Symfony PHP
 - from 22.03 to 22.05 : traineeship in VueJS - Javascript Vanilla 
 - from 21.09 to 22.02 : Graduate PHP SYMFONY with Wild Code School
 
-🔭 I’m currently working on my personal Projects: 
+## :rainbow: I’m currently working on my personal Projects: 
    - Travel Shaker (to edit my personnal traveling board) - PHP SYMFONY
    - Cabinet de Bien-Etre : presented for my Certification RNCP - PHP SYMFONY
    - and more... in Python - Django and React Native, PHP Symfony (to be continued :muscle:)
    
-##  :arrow_right: NEXT? :arrow_right: I would develop mobil app and I'm curious of 3D and metaverse
+## :rainbow: :unicorn: I love back and UX-design
 - I :heart: love :woman_technologist: coding :woman_technologist: (Symfony/Twig are my first loves but not the last!!)
-- I :heart: love :art: design :art: (illustrator, Figma, bootstrap are my friends)
+- I :heart: love :art: design :art: (Illustrator, Figma, Bootstrap are my friends)
 - I :heart: love :woman_student: learning :woman_student: 
 - :arrow_right: SO : I would learn ThreeJS, Typescript, Java, UX-UI and more...
+
+## :rainbow: :arrow_right: NEXT? :arrow_right: 
+I would develop :heart_eyes: mobil app :heart_eyes: and I'm interested by 3D and metaverse
 
 
 <h3 align="left">Connect with me:</h3>
