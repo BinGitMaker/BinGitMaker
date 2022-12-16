@@ -24,10 +24,10 @@ I'm located in Paris - France.
 - I :heart: love :woman_technologist: coding :woman_technologist: (Symfony/Twig are my first loves but not the last!!)
 - I :heart: love :art: design :art: (Illustrator, Figma, Bootstrap are my friends)
 - I :heart: love :woman_student: learning :woman_student: 
-- :arrow_right: SO : I would learn ThreeJS, Typescript, Java, UX-UI and more...
+- :arrow_right: SO : I would learn SEO, UX-UI and more...
 
 ## :rainbow: :arrow_right: NEXT? :arrow_right: 
-I would develop :heart_eyes: mobil app :heart_eyes: and I'm interested by 3D and metaverse
+I would develop :heart_eyes: mobil app :heart_eyes: and I'm interested by 3D 
 
 
 <h3 align="left">Connect with me:</h3>
