@@ -16,8 +16,8 @@ I'm located in Paris - France.
 - from 21.09 to 22.02 : Graduate PHP SYMFONY with Wild Code School
 
 ## :rainbow: I’m currently working on my personal Projects: 
+   - Cabinet de Bien-Etre - Sandrine : presented for my Certification RNCP - PHP SYMFONY
    - Travel Shaker (to edit my personnal traveling board) - PHP SYMFONY
-   - Cabinet de Bien-Etre : presented for my Certification RNCP - PHP SYMFONY
    - and more... in Python - Django and React Native, PHP Symfony (to be continued :muscle:)
    
 ## :rainbow: :unicorn: I love back and UX-design
