@@ -37,6 +37,6 @@ I would develop :heart_eyes: mobil app :heart_eyes: and I'm interested by 3D
 </p>
 
 
-[![BinGitMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinGitMaker&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
+[![BinGitMaker's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BinGitMaker&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinGitMaker&langs_count=5&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BinGitMaker&langs_count=5&theme=panda&show_icons=true)](https://github.com/BinGitMaker/github-readme-stats)
